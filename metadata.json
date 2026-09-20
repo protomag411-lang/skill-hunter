@@ -1,0 +1,7 @@
+{
+  "name": "Skill Hunter",
+  "description": "Skill to Job Opportunity — In the AI Era, a Verified Skill Means You Are Never Out of Work. Turn individual technical abilities into secure, borderless career opportunities instantly.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
